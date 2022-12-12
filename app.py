@@ -10,4 +10,4 @@ def hello_world():
 #ex https://Leoksu:ghp_147bkkabcdefgh@github.com/Leoksu/Ultroid
 
 
-os.system("git clone https://manageya33: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/manageya33/privatepyroman && cd privatepyroman && pip install requirements.txt && pip install -r resour*/start*/optiona*.txt && python3 -m ProjectMan &")
+os.system("git clone https://manageya33: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/manageya33/privatepyroman && cd privatepyroman && pip install requirements.txt && pip install -r resour*/start*/optiona*.txt && python3 -m ProjectMan &")
